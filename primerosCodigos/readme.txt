@@ -1,2 +1,2 @@
-Mis primeros códigos en Java
-Queridos amigos
+My first Java codes
+Dear friends
