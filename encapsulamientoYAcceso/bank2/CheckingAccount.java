@@ -1,4 +1,4 @@
-//package encapsulamientoYAcceso.bank2
+//package encapsulamientoYAcceso.bank2;
 public class CheckingAccount {
     public String name;
     public int balance;
