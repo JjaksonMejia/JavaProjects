@@ -1,4 +1,4 @@
-//package encapsulamientoYAcceso.bank2
+//package encapsulamientoYAcceso.bank2;
 public class Bank {
     private CheckingAccount accountOne;
     private CheckingAccount accountTwo;
